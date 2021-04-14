@@ -10,8 +10,12 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-	
+
 	public void methodOne(){
 		System.out.println("1B");
 	}
+
+    public void testMethodOne(){
+        System.out.println("1");
+    }
 }
