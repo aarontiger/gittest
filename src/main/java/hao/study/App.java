@@ -22,4 +22,8 @@ public class App
     public void testMethodTwo(){
         //2222222222
     }
+
+    public void unCommitMethod(){
+        //haoshuhu
+    }
 }
