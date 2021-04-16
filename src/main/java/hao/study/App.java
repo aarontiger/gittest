@@ -28,7 +28,7 @@ public class App
     }
 
     public void fixbug001(){
-
+        String a="";
     }
 
     public void fixbug002(){
