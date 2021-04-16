@@ -37,4 +37,7 @@ public class App
     //AAA027
     //BBB0028
     //BBB030
+    public void testMethod333(){
+        System.out.println("BBB333");
+    }
 }
