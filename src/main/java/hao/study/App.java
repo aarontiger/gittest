@@ -30,6 +30,11 @@ public class App
     public void fixbug001(){
 
     }
+
+    public void fixbug002(){
+
+    }
+    //AA
     //AAA004
     //AAA006
     //AAA009
