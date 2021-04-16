@@ -20,8 +20,8 @@ public class App
     }
 
     public void testMethodTwo(){
-        //2222222222
-        System.out.println("hello wold A 001")
+
+        System.out.println("hello wold A 001");
         System.out.println("hello wold B 001");
         System.out.println("hello wold A 003");
         System.out.println("hello wold B 004");
@@ -29,6 +29,7 @@ public class App
 
     public void fixbug001(){
        //11111
+        String a="";
     }
 
     public void fixbug002(){
