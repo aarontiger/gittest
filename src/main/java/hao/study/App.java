@@ -21,9 +21,14 @@ public class App
 
     public void testMethodTwo(){
         //2222222222
-        System.out.println("hello wold A AAA001");
+        System.out.println("hello wold A 001")
         System.out.println("hello wold B 001");
         System.out.println("hello wold A 003");
+        System.out.println("hello wold B 004");
+    }
+
+    public void fixbug001(){
+
     }
     //AAA004
     //AAA006
