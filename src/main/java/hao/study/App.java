@@ -22,6 +22,7 @@ public class App
     public void testMethodTwo(){
         //2222222222
         System.out.println("hello wold A 001")
+        System.out.println("hello wold B 001");
     }
     //AAA004
     //AAA006
