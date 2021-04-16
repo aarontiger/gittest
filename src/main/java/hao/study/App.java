@@ -52,4 +52,8 @@ public class App
     public void testMethod333(){
         System.out.println("BBB333");
     }
+
+    public void testMethodA333(){
+        System.out.println("AAA333");
+    }
 }
