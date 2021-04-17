@@ -56,4 +56,7 @@ public class App
     public void testMethodA333(){
         System.out.println("AAA333");
     }
+    public void testMethodA444(){
+        System.out.println("AAA444");
+    }
 }
