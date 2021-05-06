@@ -7,6 +7,7 @@ public class LoveOfBrother {
         System.out.println("we are taught that the mind of past time is emptiness");
         System.out.println("the mind of future time is emptiness");
         System.out.println("practise my mind");
+        System.out.println("it's windy today");
     }
 
     public void emptyAll(){
