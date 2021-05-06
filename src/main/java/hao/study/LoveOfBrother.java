@@ -8,6 +8,6 @@ public class LoveOfBrother {
     }
 
     public void emptyAll(){
-        System.out.println("The so called emotion is empty");
+        System.out.println("The so called emotion is empty");//todo
     }
 }
