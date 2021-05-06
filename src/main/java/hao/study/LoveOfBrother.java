@@ -6,4 +6,8 @@ public class LoveOfBrother {
         System.out.println("I love you more than I can say");
         System.out.println("Great thanks for you receiving my gift,I am very happy");
     }
+
+    public void emptyAll(){
+        System.out.println("The so called emotion is empty");
+    }
 }
