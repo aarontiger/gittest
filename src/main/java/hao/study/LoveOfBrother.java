@@ -8,6 +8,7 @@ public class LoveOfBrother {
         System.out.println("the mind of future time is emptiness");
         System.out.println("practise my mind");
         System.out.println("it's windy today");
+        //fetch test 2
     }
 
     public void emptyAll(){
