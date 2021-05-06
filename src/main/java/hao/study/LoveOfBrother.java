@@ -2,9 +2,10 @@ package hao.study;
 
 public class LoveOfBrother {
 
-    public void toBeFriendWithYou(){
-        System.out.println("I love you more than I can say");
-        System.out.println("Great thanks for you receiving my gift,I am very happy");
+    public void iAmGreedy(){
+        System.out.println("It's my mistake");
+        System.out.println("we are taught that the mind of past time is emptiness");
+        System.out.println("the mind of future time is emptiness");
     }
 
     public void emptyAll(){
